@@ -1,0 +1,50 @@
+@media  screen and (max-width:914px) {
+    img{
+        display: none;
+    }
+    
+}
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+    main{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 38px;
+    }
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+    input{
+        align-self: center;
+    }
+    img{
+        display: none;
+    }
+    ul{
+        text-align: center;
+    }
+    span{
+        display: block;
+    }
+}
+@media screen and (max-width: 1136px){
+    h1{
+        font-size: 40px;
+    }
+    span{
+        line-height: 50px
+    }
+    h2:last-child{
+        font-size: 40px;
+        line-height: 37px;
+    }
+    img{
+        width: 100%;
+    }
+}
+
+    
