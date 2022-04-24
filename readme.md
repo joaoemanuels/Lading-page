@@ -19,7 +19,7 @@ transform-origin: ;
 transition: ;
 
 <h1>Versão mobile</h1>
-<img src="md/mobile">
+<img src="md/mobile.png">
 
 <h1>Versão Pc</h1>
-<img src="md/PC">
+<img src="md/PC.png">
